@@ -7,4 +7,4 @@
 
 . Install PolyMC and load the modpack file.
   
-. Adjust your allocated RAM to 4-8 gigabytes.
+. Adjust your allocated RAM to 4 - 8 gigabytes.
