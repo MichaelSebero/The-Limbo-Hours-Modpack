@@ -7,7 +7,7 @@ This modpack has been a project I've worked on for 6 years and I've finally deci
 
 ## How to install The-Limbo-Hours-Modpack
   
-. Download the modpack | https://tinyurl.com/57t2uvd2
+. Download the modpack | https://tinyurl.com/2av6jrz8
 
 . Install PolyMC and load the modpack file.
   
