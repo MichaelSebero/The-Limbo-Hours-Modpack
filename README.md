@@ -7,7 +7,7 @@ If you enjoy a highly configured and balanced factory / magic modpack which has 
 
 ## How to install The-Limbo-Hours-Modpack
   
-. Download the modpack | https://tinyurl.com/2av6jrz8
+. Download the modpack | https://tinyurl.com/yeysupjh
 
 . Install PolyMC and load the modpack file.
   
