@@ -12,3 +12,4 @@ If you enjoy a highly configured and balanced factory / magic modpack which has 
 . Install PolyMC and load the modpack file.
   
 . Adjust your allocated RAM to 4 - 8 gigabytes.
+ 
