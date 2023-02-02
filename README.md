@@ -3,7 +3,7 @@
                                                                                                                                       
 ## Description
 
-If you're looking for a balanced factory / magic modpack which has it's own uniqueness to it, this modpack is for you.
+If you're looking for a factory / magic modpack which has it's own uniqueness to it, this modpack is for you.
 
 ## How to install The-Limbo-Hours-Modpack
   
